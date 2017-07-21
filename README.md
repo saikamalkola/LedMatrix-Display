@@ -1,4 +1,4 @@
-# 16x32-Led-Matrix
+# LED MATRIX DISPLAY
 LED Display using Arduino(MULTIPLEXING):
 <br>•	Built a 16x32 LED matrix which works based on Multiplexing techniques and Persistence of Vision(POV) effect of human eyes.
 <br>•	Works based on SPI protocol and can display scrolling text with adjustable speed.
